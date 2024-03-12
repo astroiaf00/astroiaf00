@@ -1,0 +1,4 @@
+- Hi, I'm astroiaf00, a programmer that codes HTML, Javascript, Java, Python, C++, and other languages!
+- I'm interested in learning Rust and SQL.
+- My favorite languages are Javascript and HTML.
+- I also like making websites to enjoy on devices while learning.
